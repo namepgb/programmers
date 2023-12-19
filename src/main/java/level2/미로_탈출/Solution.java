@@ -1,10 +1,11 @@
-package main.java.level2.미로탈출;
+package main.java.level2.미로_탈출;
 
 import java.util.*;
 
 /**
- * @see <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159993">Programmers: </a>
- *
+ * BFS를 연속 실행하고 그 결과를 합산하는 것으로 결과를 도출합니다.
+ * @see <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159993">Programmers: 미로 탈출</a>
+ * @author namepgb
  */
 public class Solution
 {

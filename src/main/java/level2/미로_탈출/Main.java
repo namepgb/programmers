@@ -1,7 +1,9 @@
-package main.java.level2.미로탈출;
+package main.java.level2.미로_탈출;
 
 /**
- *
+ * {@link Solution}의 테스트케이스를 실행합니다.
+ * @see <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159993">Programmers: 미로 탈출</a>
+ * @author namepgb
  */
 public class Main
 {
